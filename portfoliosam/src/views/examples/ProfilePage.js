@@ -68,8 +68,9 @@ function ProfilePage() {
             </div>
             <h2 className="title">About Me</h2>
             <h5 className="description">
-              <b>A Software Engineer, Who Works With Javascript Both Front-End And Back-End. With Frameworks Like,
-               ReactJs, React-Native And NodeJs. Am Also A Computer Engineer I Fix Damage Laptops And Computers And Install Softwares On Any (OS)</b>
+              <b> A Software Engineer, who is dedicated to helping clients accomplish technical goals by developing user
+                friendly and forward-thinking apps. Experience working with Javascript Both Front-End And Back-End. With Frameworks Like,
+               ReactJs, React-Native And NodeJs.</b>
             </h5>
             <Row>
               <Col className="ml-auto mr-auto" md="10">
@@ -161,6 +162,7 @@ function ProfilePage() {
             <p className="title">Hng.Tech--Intern  Aug 2018 – April 2019</p>
             <ul>
               <b>
+                <li> I work as an Intern in Hng.Tech</li>
               <li>Build a web app for Kids that allow them read stories.</li>
               <li>Built with Nodejs.</li>
               <li>Link to source code<a href="https://github.com/alexzender45/night-stories-backend" > Here</a></li>
@@ -169,6 +171,7 @@ function ProfilePage() {
               <p className="title">Andela Bootcamp--Intern  Dec 2018 – Oct 2019</p>
             <ul>
               <b>
+                <li> Participated in Andela Bootcamp Fellowship as an Intern</li>
               <li>Build a backend api for booking Ride with nodejs</li>
               <li>Built with Nodejs.</li>
               <li>Link to source code on github<a href="https://github.com/alexzender45/WayFarer-API" > Source Code</a></li>
@@ -177,6 +180,7 @@ function ProfilePage() {
               <p className="title">Blizz Tech--Front-end Engineer  Nov 2018 – March 2019</p>
             <ul>
               <b>
+                <li> Work as a frontend developer freelance </li>
               <li>Build a front-end platform for Voiceer project</li>
               <li>Voiceer is a competition platform </li>
               <li>Link to Voiceer platform<a href="https://alexzender45.github.io/Voiceer1/front%20end/landing-page/landing.html#" > Live Link</a></li>
@@ -185,6 +189,7 @@ function ProfilePage() {
               <p className="title">The Rock Fes--Software Engineer March 2020 </p>
             <ul>
               <b>
+                <li> Work as a software developer and maintain Company's site </li>
               <li>Build a networking platform that enables people to raise funds</li>
               <li>Hosce is the name of the platform, it also educate people with business skills</li>
               <li>Link to Hosce  platform<a href="https://www.trfhosce.com" > Live Link</a></li>
@@ -193,6 +198,7 @@ function ProfilePage() {
               <p className="title">SDG-Challenge febuary-August 2020 </p>
             <ul>
               <b>
+                <li> Participated in SDG-Chanllenge as an Intern and work as a team </li>
               <li>Build a platform thats helps to improve quality teachers in the society</li>
               <li>Build with NodeJs, ReactJs, MongoDB</li>
               <li>Link to platform source code<a href="https://github.com/alexzender45/team-013-Backend" > Source Code</a></li>
