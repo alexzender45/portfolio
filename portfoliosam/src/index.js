@@ -11,7 +11,7 @@
 */
 import React from "react";
 import ReactDOM from "react-dom";
-import { HashRouter, Route, Switch} from "react-router-dom";
+import { HashRouter, Route} from "react-router-dom";
 
 // styles for this kit
 import "assets/css/bootstrap.min.css";
@@ -23,12 +23,10 @@ import ProfilePage from "views/examples/ProfilePage.js";
 
 ReactDOM.render(
   <HashRouter>
-      <Switch>
         <Route
           path="/"
           render={(props) => <ProfilePage {...props} />}
         />
-      </Switch>
   </HashRouter>,
   document.getElementById("root")
 );
