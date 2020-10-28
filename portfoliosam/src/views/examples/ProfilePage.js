@@ -227,13 +227,13 @@ function ProfilePage() {
               <li>A Site that allows Team of people to posts Gifts and Articles</li> 
               <li>Built with NodeJs, ReactJs, SQL</li>
               <li>Login with this details Email: admin@gmail.com, Password: alexzender45.</li>
-              <li>View live site with source code <a href = 'https://fillter-search.herokuapp.com/'>Live Site</a> <a href = 'https://github.com/alexzender45/teamwork-frontend'>Source Code</a></li>
+              <li>View live site with source code <a href = 'https://alexzender45.github.io/teamwork-frontend/#/articles'>Live Site</a> <a href = 'https://github.com/alexzender45/teamwork-frontend'>Source Code</a></li>
               </b>
               </ul>
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/bg3.PNG")}
+                          src={require("assets/img/bg4.PNG")}
                         ></img>
                          <p className="title">Filter-search</p>
             <ul>
