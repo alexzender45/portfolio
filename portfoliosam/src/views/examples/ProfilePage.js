@@ -92,6 +92,7 @@ function ProfilePage() {
                         }}
                       >
                         <i className="now-ui-icons design_image"></i>
+                        <h5><b>Click To View</b> </h5>
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -105,6 +106,7 @@ function ProfilePage() {
                         }}
                       >
                         <i className="now-ui-icons location_world"></i>
+                        <h5><b>Click To View</b> </h5>
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -118,6 +120,7 @@ function ProfilePage() {
                         }}
                       >
                         <i className="now-ui-icons sport_user-run"></i>
+                        <h5><b>Click To View</b> </h5>
                       </NavLink>
                     </NavItem> 
                   </Nav>
