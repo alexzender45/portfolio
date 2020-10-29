@@ -235,7 +235,7 @@ function ProfilePage() {
               <b>
               <li>A Site that allows Team of people to posts Gifts and Articles</li> 
               <li>Built with NodeJs, ReactJs, SQL</li>
-              <li>Login with this details Email: admin@gmail.com, Password: alexzender45.</li>
+              <li>Login with this details Email: admin@gmail.com, Password: alexzender45</li>
               <li>View live site with source code <a href = 'https://alexzender45.github.io/teamwork-frontend/#/articles'>Live Site</a> <a href = 'https://github.com/alexzender45/teamwork-frontend'>Source Code</a></li>
               </b>
               </ul>
