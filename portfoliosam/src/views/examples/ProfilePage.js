@@ -222,7 +222,7 @@ function ProfilePage() {
               <b>
               <li>A Networking Platform that helps people to generate funds and educate them with business skills</li> 
               <li>Built with NodeJs, ReactJs, SQL, Sequelize</li>
-              <li>View live site with source code <a href = 'https://www.trfhosce.com'>Live Site</a> <a href = 'https://github.com/alexzender45/Hosce-Backend'>Source Code</a></li>
+              <li>View live site with source code <a href = 'https://www.trfhosce.com'>Live Site</a></li>
               </b>
               </ul>
                         <img
