@@ -37,28 +37,29 @@ function ProfilePage() {
         <div className="section"  style={{ backgroundColor: 'black', color: 'white'}}>
           <Container>
             <div className="button-container">
+            <a href="https://github.com/alexzender45" >
               <Button className="btn-round" color="info" size="sm">
-              <NavLink href="https://github.com/alexzender45" >
               <span style = {size4}>Github</span>
-                </NavLink>
               </Button>
+              </a>
+              <a href="https://www.linkedin.com/in/abiokorigho-samuel-371b08149/" >
               <Button
-                className="btn-round"
+                className="btn-round btn-icon"
                 color="info"
                 id="tooltip515203352"
-                size="sm"
-              ><NavLink href="https://www.linkedin.com/in/abiokorigho-samuel-371b08149/" >
-                <span style = {size4}>linkedin</span>
-              </NavLink>
-              </Button>
+                size="lg"
+              >
+                <span style = {size4}><i className="fab fa-linkedin"></i></span>
+                </Button>
+              </a>
               <UncontrolledTooltip delay={0} target="tooltip515203352">
                 Check My Project ON linkedin
               </UncontrolledTooltip>
+              <a href="https://drive.google.com/file/d/1doz5OLDa8oFg7H7P_Eply8RF5qNFY9wJ/view?usp=sharing" >
               <Button className="btn-round" color="info" size="sm" id = 'tooltip340339231' >
-              <NavLink href="https://drive.google.com/file/d/1doz5OLDa8oFg7H7P_Eply8RF5qNFY9wJ/view?usp=sharing" >
                 <span style = {size4}>Resume</span>
-                </NavLink>
               </Button>
+              </a>
               <UncontrolledTooltip delay={0} target="tooltip340339231">
                 View My Resume
               </UncontrolledTooltip>
