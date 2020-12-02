@@ -43,12 +43,12 @@ function ProfilePage() {
                 </NavLink>
               </Button>
               <Button
-                className="btn-round btn-icon"
+                className="btn-round"
                 color="info"
                 id="tooltip515203352"
-                size="lg"
+                size="sm"
               ><NavLink href="https://www.linkedin.com/in/abiokorigho-samuel-371b08149/" >
-                <span style = {size4}><i className="fab fa-linkedin"></i></span>
+                <span style = {size4}>linkedin</span>
               </NavLink>
               </Button>
               <UncontrolledTooltip delay={0} target="tooltip515203352">
