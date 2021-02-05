@@ -79,7 +79,7 @@ function ExamplesNavbar() {
             <Nav navbar>
               <NavItem>
                 <NavLink
-                  href="https://twitter.com/Alexzendersamu4"
+                  href="https://twitter.com/abiokorigho"
                   target="_blank"
                   id="twitter-tooltip"
                 >

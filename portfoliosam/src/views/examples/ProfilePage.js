@@ -3,7 +3,6 @@ import React from "react";
 // reactstrap components
 import {
   Button,
-  NavLink,
   Nav,
   TabContent,
   Container,
@@ -115,6 +114,45 @@ function ProfilePage() {
             <Button className="btn-round" color="success" size="sm">Postgres</Button>
             </h5>
                     </Row>
+                  </Col>
+                  <Col className="ml-auto mr-auto" md="10">
+                    <Row className="collections"> 
+                  <h2 style = {size1} className= "title" >Hackathons/ Internship</h2>
+                  <Col md="12">
+                  <h5 className="description" style={{ color: 'white', fontWeight: 80}}>
+                  <p className="title">MLH-Spring 2021 - Explorer Fellow</p>
+                  <ul>
+                    <b>
+                      <li>The MLH Fellowship is a 12-week internship alternative for aspiring software engineers</li>
+                      <li>Work on Real-world Projects</li>
+                      <li>Work with new Technologies</li>
+                      <li>Collaborate in small groups on a series of short hackathon sprints</li>
+                      <li>Read More About MLH(Major League Hacking)<a href = 'https://fellowship.mlh.io/'>Click Here</a></li>
+                    </b>
+                  </ul>
+                  <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/Mlh.PNG")}
+                        ></img>
+                        <p className="title">Africahacks Hackathon 2020 </p>
+                  <ul>
+                    <b>
+                      <li>The Africahacks Hackathon is a one week Hackathon for developers</li>
+                      <li>Build An Ideal to Product</li>
+                      <li>Work with new Technologies</li>
+                      <li>Build a platform that helps to provide quality teachers to schools </li>
+                      <li>Read  More About Africahacks <a href = 'https://apply.africahacks.com/'>Click Here</a></li>
+                    </b>
+                  </ul>
+                  <img
+                          alt="..."
+                          className="img-raised"
+                          src={require("assets/img/newAfrica.png")}
+                        ></img>
+                  </h5>
+                  </Col>
+                  </Row>
                   </Col>
                   <Col className="ml-auto mr-auto" md="10">
                     <Row className="collections"> 
@@ -245,6 +283,41 @@ function ProfilePage() {
                     <Row className="collections">
                     <h2 className="title">Work Experience</h2>
             <h5 className="description" style = {size3} style={{ color: 'white', fontWeight: 80}}>
+            <p className="title">Backend Developer @Softblue 2021-Present</p>
+            <ul>
+              <b>
+                <li> I work as a Backend Developer</li>
+              <li>Build series of Backend applications</li>
+              <li>Work with AWS Labdam Function and Nodejs</li>
+              </b>
+              </ul>
+              <p className="title">Web Developer @AzuresTech 2021-Present </p>
+            <ul>
+              <b>
+                <li>Work as a fullstack developer, build both frontend and backend</li>
+              <li>Work with teams</li>
+              <li>Work with Nodejs and Reactjs</li>
+              <li>Link to company's website<a href="http://www.azurestech.com/" > Click Here</a></li>
+              </b>
+              </ul>
+              <p className="title">The Rock Fes--Software Engineer March 2020 </p>
+            <ul>
+              <b>
+                <li> Work as a software developer and maintain Company's site </li>
+              <li>Build a networking platform that enables people to raise funds</li>
+              <li>Hosce is the name of the platform, it also educate people with business skills</li>
+              <li>Link to Hosce  platform<a href="https://www.trfhosce.com" > Live Link</a></li>
+              </b>
+              </ul>
+              <p className="title">SDG-Challenge febuary-August 2020 </p>
+            <ul>
+              <b>
+                <li> Participated in SDG-Chanllenge as an Intern and work as a team </li>
+              <li>Build a platform thats helps to improve quality teachers in the society</li>
+              <li>Build with NodeJs, ReactJs, MongoDB</li>
+              <li>Link to platform source code<a href="https://github.com/alexzender45/team-013-Backend" > Source Code</a></li>
+              </b>
+              </ul>
             <p className="title">Hng.Tech--Intern  Aug 2018 – April 2019</p>
             <ul>
               <b>
@@ -272,24 +345,6 @@ function ProfilePage() {
               <li>Link to Voiceer platform<a href="https://alexzender45.github.io/Voiceer1/front%20end/landing-page/landing.html#" > Live Link</a></li>
               </b>
               </ul>
-              <p className="title">The Rock Fes--Software Engineer March 2020 </p>
-            <ul>
-              <b>
-                <li> Work as a software developer and maintain Company's site </li>
-              <li>Build a networking platform that enables people to raise funds</li>
-              <li>Hosce is the name of the platform, it also educate people with business skills</li>
-              <li>Link to Hosce  platform<a href="https://www.trfhosce.com" > Live Link</a></li>
-              </b>
-              </ul>
-              <p className="title">SDG-Challenge febuary-August 2020 </p>
-            <ul>
-              <b>
-                <li> Participated in SDG-Chanllenge as an Intern and work as a team </li>
-              <li>Build a platform thats helps to improve quality teachers in the society</li>
-              <li>Build with NodeJs, ReactJs, MongoDB</li>
-              <li>Link to platform source code<a href="https://github.com/alexzender45/team-013-Backend" > Source Code</a></li>
-              </b>
-              </ul>
             </h5>
                     </Row>
                   </Col>
@@ -297,6 +352,7 @@ function ProfilePage() {
                     <Row className="collections">
                     <h2 style = {size1} className= "title" >Eductation/Cert</h2>
             <h5 className="description" style = {size2} style={{ color: 'white', fontWeight: 80}}>
+            <p  className="title">Certificate From Africahacks Hackathon<a href = 'https://drive.google.com/file/d/1VHWTW-G7Xb6WGH3ktfpv857eCc0W5ZZE/view?usp=sharing'> View Certificate</a></p>
             <p  className="title">Uopeople (University Of The People) Studing Computer Science 2020-2022 <a href = 'https://www.uopeople.edu/'> School Site</a></p>
             <p  className="title">Alc (Andela Learning Community) This is a <b>Web Specialist certificate</b> offered by Andela Tech Company
              <a href = 'https://drive.google.com/file/d/1COM_OqQwZyeuikkTfvlbl8t1aagyitVO/view?usp=sharing'> View certificate</a></p>
