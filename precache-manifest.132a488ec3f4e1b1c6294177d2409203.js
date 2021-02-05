@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fc19e81ea6f1313e4fe43bd4a890efb",
+    "revision": "5dd484e8be967125c8edb303fd1893bf",
     "url": "./index.html"
   },
   {
-    "revision": "e3e1ff809d6188cd5392",
+    "revision": "bfba34a31646017eaca3",
     "url": "./static/css/main.01a1d71b.chunk.css"
   },
   {
-    "revision": "72b29822bbb14a6cc9fd",
-    "url": "./static/js/2.6b05c24b.chunk.js"
+    "revision": "315252f1ee3d730fde5c",
+    "url": "./static/js/2.3b85cdc5.chunk.js"
   },
   {
     "revision": "e78aee55a0a2dc32283861669aedf08a",
-    "url": "./static/js/2.6b05c24b.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.3b85cdc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3e1ff809d6188cd5392",
-    "url": "./static/js/main.180a7662.chunk.js"
+    "revision": "bfba34a31646017eaca3",
+    "url": "./static/js/main.d9c929cb.chunk.js"
   },
   {
     "revision": "e0d518ee8ea3367fb806",
     "url": "./static/js/runtime-main.87847c3c.js"
+  },
+  {
+    "revision": "23f95b7745ab2aa718903602a15312b4",
+    "url": "./static/media/Mlh.23f95b77.PNG"
   },
   {
     "revision": "5a1b333598abe41d861ac6055e425022",
@@ -58,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "408f96ed3061ec1c0cb743b9ae405b3c",
     "url": "./static/media/luhn.408f96ed.PNG"
+  },
+  {
+    "revision": "e4bcb54466191b75539faa7e61fdbd6b",
+    "url": "./static/media/newAfrica.e4bcb544.png"
   },
   {
     "revision": "22a0bffe789c286a9d78eb52670996a7",
