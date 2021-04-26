@@ -42,11 +42,11 @@ function ProfilePageHeader() {
           <p className="category">Software Engineer---3years</p>
           <div className="content">
             <div className="social-description">
-              <h2>40</h2>
+              <h2>47</h2>
               <p>Repository On Github</p>
             </div>
             <div className="social-description">
-              <h2>14</h2>
+              <h2>16</h2>
               <p>Project On Heroku Platform</p>
             </div>
             <div className="social-description">
