@@ -54,7 +54,7 @@ function ProfilePage() {
               <UncontrolledTooltip delay={0} target="tooltip515203352">
                 Check My Project ON linkedin
               </UncontrolledTooltip>
-              <a href="https://drive.google.com/file/d/1hpi2fZFZsI-2_HvPLEELID1-sWqSXn89/view?usp=sharing" >
+              <a href="https://drive.google.com/file/d/10-tUxC1jw76hB-X3CLbudFN7ftk5XM16/view?usp=sharing" >
                 <Button className="btn-round" color="info" size="sm" id='tooltip340339231' >
                   <span style={size4}>Resume</span>
                 </Button>
@@ -65,13 +65,10 @@ function ProfilePage() {
             </div>
             <h2 className="title" >About Me</h2>
             <h5 className="description" style={{ color: 'white' }}>
-              <b> A Software Engineer, who is dedicated to helping clients accomplish technical goals by developing user
-              friendly and forward-thinking apps. Experience working with Javascript Both Front-End And Back-End. With Frameworks Like,
-               ReactJs, React-Native And NodeJs.</b>
+              <b> A Backend Developer, who is dedicated to helping clients accomplish technical goals.</b>
             </h5>
             <Row>
               <Col className="ml-auto mr-auto" md="10">
-                <h2 className="title text-center">My Portfolio</h2>
                 <div className="nav-align-center">
                   <Nav
                     className="nav-pills-info nav-pills-just-icons"
@@ -89,69 +86,16 @@ function ProfilePage() {
                       <Button className="btn-round" color="danger" size="sm"> Javascript</Button>
                       <Button className="btn-round" color="primary" size="sm"> NodeJs</Button>
                       <Button className="btn-round" color="secondary" size="sm"> ReactJs</Button>
-                      <Button className="btn-round" color="info" size="sm">React-Native</Button>
-                      <Button className="btn-round" color="success" size="sm">Express</Button>
-                      <Button className="btn-round" color="warning" size="sm">Ejs</Button>
                       <Button className="btn-round" color="light" size="sm">HTML5</Button>
-                      <Button className="btn-round" color="danger" size="sm">Material-Css</Button>
                       <Button className="btn-round" color="primary" size="sm">Sql</Button>
                       <Button className="btn-round" color="secondary" size="sm">MongoDB</Button>
-                      <Button className="btn-round" color="info" size="sm">Bootstrap</Button>
-                      <Button className="btn-round" color="success" size="sm">Semantic-Ui</Button>
                       <Button className="btn-round" color="warning" size="sm">Github</Button>
-                      <Button className="btn-round" color="light" size="sm">JWT</Button>
-                      <Button className="btn-round" color="danger" size="sm">Api</Button>
                       <Button className="btn-round" color="primary" size="sm">Heroku</Button>
-                      <Button className="btn-round" color="secondary" size="sm">Pivotal-Tracker</Button>
                       <Button className="btn-round" color="info" size="sm">CSS</Button>
-                      <Button className="btn-round" color="success" size="sm">Cpanel</Button>
-                      <Button className="btn-round" color="warning" size="sm">Sequelize</Button>
-                      <Button className="btn-round" color="light" size="sm">useEffect</Button>
-                      <Button className="btn-round" color="danger" size="sm">useState</Button>
-                      <Button className="btn-round" color="primary" size="sm">Firebase</Button>
                       <Button className="btn-round" color="secondary" size="sm">AWS</Button>
-                      <Button className="btn-round" color="info" size="sm">PayStack</Button>
+                      <Button className="btn-round" color="info" size="sm">Java</Button>
                       <Button className="btn-round" color="success" size="sm">Postgres</Button>
                     </h5>
-                  </Row>
-                </Col>
-                <Col className="ml-auto mr-auto" md="10">
-                  <Row className="collections">
-                    <h2 style={size1} className="title" >Hackathons/ Internship</h2>
-                    <Col md="12">
-                      <h5 className="description" style={{ color: 'white', fontWeight: 80 }}>
-                        <p className="title">MLH-Spring 2021 - Explorer Fellow</p>
-                        <ul>
-                          <b>
-                            <li>The MLH Fellowship is a 12-week internship alternative for aspiring software engineers</li>
-                            <li>Work on Real-world Projects</li>
-                            <li>Work with new Technologies</li>
-                            <li>Collaborate in small groups on a series of short hackathon sprints</li>
-                            <li>Read More About MLH(Major League Hacking)<a href='https://fellowship.mlh.io/'>Click Here</a></li>
-                          </b>
-                        </ul>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/Mlh.PNG")}
-                        ></img>
-                        <p className="title">Africahacks Hackathon 2020 </p>
-                        <ul>
-                          <b>
-                            <li>The Africahacks Hackathon is a one week Hackathon for developers</li>
-                            <li>Build An Ideal to Product</li>
-                            <li>Work with new Technologies</li>
-                            <li>Build a platform that helps to provide quality teachers to schools </li>
-                            <li>Read  More About Africahacks <a href='https://apply.africahacks.com/'>Click Here</a></li>
-                          </b>
-                        </ul>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/newAfrica.png")}
-                        ></img>
-                      </h5>
-                    </Col>
                   </Row>
                 </Col>
                 <Col className="ml-auto mr-auto" md="10">
@@ -172,19 +116,19 @@ function ProfilePage() {
                           className="img-raised"
                           src={require("assets/img/bg3.PNG")}
                         ></img>
-                        <p className="title">Team-Work</p>
+                        <p className="title">Felt-Teacher</p>
                         <ul>
                           <b>
-                            <li>A Site that allows Team of people to posts Gifts and Articles</li>
-                            <li>Built with NodeJs, ReactJs, SQL</li>
-                            <li>Login with this details Email: admin@gmail.com, Password: alexzender45</li>
-                            <li>View live site with source code <a href='https://alexzender45.github.io/teamwork-frontend/#/articles'>Live Site</a> <a href='https://github.com/alexzender45/teamwork-frontend'>Source Code</a></li>
+                            <li>A platform that allows schools and parents employ quality teachers.</li>
+                            <li>Build Backend API’s with Nodejs and Mongodb,Cloudinary, Heroku, Sendgrid,VonageAPI</li>
+                            <li>View source code on Github<a href='https://github.com/alexzender45/Africahacks-Felt-teacher/tree/backend'>Source code</a>
+                            <a href = 'https://felt-teacher.vercel.app/'>  Live Site</a></li>
                           </b>
                         </ul>
                         <img
                           alt="..."
                           className="img-raised"
-                          src={require("assets/img/bg4.PNG")}
+                          src={require("assets/img/felt-teacher.PNG")}
                         ></img>
                         <p className="title">Vs-Code User Status</p>
                         <ul>
@@ -207,44 +151,6 @@ function ProfilePage() {
                           className="img-raised"
                           src={require("assets/img/game.png")}
                         ></img>
-                        <p className="title">Card Validation</p>
-                        <ul>
-                          <b>
-                            <li>Built with Javascript(ES6), HTML, CSS</li>
-                            <li> This program is built with Luhn's Algorithm, it checks if credit/debit card is valid or not</li>
-                            <li>View live app <a href='https://codepen.io/alexzender45/full/gqRoVp'>Live App</a></li>
-                          </b>
-                        </ul>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/luhn.PNG")}
-                        ></img>
-                        <p className="title">Password-Strength</p>
-                        <ul>
-                          <b>
-                            <li>Built with Javascript(ES6), HTML, CSS</li>
-                            <li> This program helps to check how strong or weak your Password is</li>
-                            <li>View live app <a href='https://codepen.io/alexzender45/full/BPGRxL'>Live App</a></li>
-                          </b>
-                        </ul>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/password.PNG")}
-                        ></img>
-                        <p className="title">Filter-search</p>
-                        <ul>
-                          <b>
-                            <li>Built with Javascript(ES6), HTML, CSS</li>
-                            <li>View live app with source code <a href='https://fillter-search.herokuapp.com/'>Live App</a> <a href='https://github.com/alexzender45/search-filter'>Source Code</a></li>
-                          </b>
-                        </ul>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg14.PNG")}
-                        ></img>
                         <p className="title">CRUD App</p>
                         <ul>
                           <b>
@@ -257,19 +163,6 @@ function ProfilePage() {
                           alt="..."
                           className="img-raised"
                           src={require("assets/img/bg8.PNG")}
-                        ></img>
-                        <p className="title">Flower site App</p>
-                        <ul>
-                          <b>
-                            <li>A web app that allows you post beautiful flower and update your post </li>
-                            <li>Built with Javascript(ES6), HTML, CSS, mongoDB, nodeJs ,PassportJs, Connect-flash, Methodoverride, express-exession, mongoose, Semantic-Ui.</li>
-                            <li>View live site with source code <a href='https://blogapp-site.herokuapp.com/'>Live Site</a> <a href='https://github.com/alexzender45/BlogApp'>Source Code</a></li>
-                          </b>
-                        </ul>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg2.PNG")}
                         ></img>
                         <p className="title">Text-To-Speech </p>
                         <ul>
@@ -284,26 +177,6 @@ function ProfilePage() {
                           className="img-raised"
                           src={require("assets/img/bg9.PNG")}
                         ></img>
-                        <p className="title">Flex-panel  </p>
-                        <ul>
-                          <b>
-                            <li>Built with Javascript(ES6), HTML, CSS</li>
-                            <li>View live site with source code <a href='https://panel-fliter.herokuapp.com/'>Live Site</a> <a href='https://github.com/alexzender45/flex-panels'>Source Code</a></li>
-                          </b>
-                        </ul>
-                        <img
-                          alt="..."
-                          className="img-raised"
-                          src={require("assets/img/bg10.PNG")}
-                        ></img>
-                        <p className="title">MLH Ethical Data</p>
-                        <ul>
-                          <b>
-                            <li>A Port Scanner Buit for checking all open ports on your local PC</li>
-                            <li>Built with Python</li>
-                            <li>View source code on Github<a href='https://github.com/alexzender45/MLH-Ethical-Data/tree/staging'>Source Code</a></li>
-                          </b>
-                        </ul>
                       </h5>
                     </Col>
                   </Row>
@@ -320,56 +193,27 @@ function ProfilePage() {
                           <li>Work with AWS Labdam Function and Nodejs</li>
                         </b>
                       </ul>
-                      <p className="title">Web Developer @AzuresTech 2021-Present </p>
+                      <p className="title">Backend Developer @AzuresTech Feb/2021 - June/2021 </p>
                       <ul>
                         <b>
-                          <li>Work as a fullstack developer, build both frontend and backend</li>
+                          <li>Build API’s with Nodejs, Setup Projects Stories</li>
                           <li>Work with teams</li>
-                          <li>Work with Nodejs and Reactjs</li>
                           <li>Link to company's website<a href="http://www.azurestech.com/" > Click Here</a></li>
                         </b>
                       </ul>
-                      <p className="title">The Rock Fes--Software Engineer March 2020 </p>
+                      <p className="title">The Rock Fes--Software Engineer Jan/2020 - Dec/2020 </p>
                       <ul>
                         <b>
-                          <li> Work as a software developer and maintain Company's site </li>
+                          <li>Build Networking Platform with Reactjs and Nodejs </li>
                           <li>Build a networking platform that enables people to raise funds</li>
                           <li>Hosce is the name of the platform, it also educate people with business skills</li>
                           <li>Link to Hosce  platform<a href="https://www.trfhosce.com" > Live Link</a></li>
                         </b>
                       </ul>
-                      <p className="title">SDG-Challenge febuary-August 2020 </p>
-                      <ul>
-                        <b>
-                          <li> Participated in SDG-Chanllenge as an Intern and work as a team </li>
-                          <li>Build a platform thats helps to improve quality teachers in the society</li>
-                          <li>Build with NodeJs, ReactJs, MongoDB</li>
-                          <li>Link to platform source code<a href="https://github.com/alexzender45/team-013-Backend" > Source Code</a></li>
-                        </b>
-                      </ul>
-                      <p className="title">Hng.Tech--Intern  Aug 2018 – April 2019</p>
-                      <ul>
-                        <b>
-                          <li> I work as an Intern in Hng.Tech</li>
-                          <li>Build a web app for Kids that allow them read stories.</li>
-                          <li>Built with Nodejs.</li>
-                          <li>Link to source code<a href="https://github.com/alexzender45/night-stories-backend" > Here</a></li>
-                        </b>
-                      </ul>
-                      <p className="title">Andela Bootcamp--Intern  Dec 2018 – Oct 2019</p>
-                      <ul>
-                        <b>
-                          <li> Participated in Andela Bootcamp Fellowship as an Intern</li>
-                          <li>Build a backend api for booking Ride with nodejs</li>
-                          <li>Built with Nodejs.</li>
-                          <li>Link to source code on github<a href="https://github.com/alexzender45/WayFarer-API" > Source Code</a></li>
-                        </b>
-                      </ul>
                       <p className="title">Blizz Tech--Front-end Engineer  Nov 2018 – March 2019</p>
                       <ul>
                         <b>
-                          <li> Work as a frontend developer freelance </li>
-                          <li>Build a front-end platform for Voiceer project</li>
+                          <li> Build Voiceer Platform with HTLM, CSS, Javascript </li>
                           <li>Voiceer is a competition platform </li>
                           <li>Link to Voiceer platform<a href="https://alexzender45.github.io/Voiceer1/front%20end/landing-page/landing.html#" > Live Link</a></li>
                         </b>
@@ -382,21 +226,11 @@ function ProfilePage() {
                     <h2 style={size1} className="title" >Eductation/Cert</h2>
                     <h5 className="description" style={size2} style={{ color: 'white', fontWeight: 80 }}>
                       <p className="title">Certificate From Africahacks Hackathon<a href='https://drive.google.com/file/d/1VHWTW-G7Xb6WGH3ktfpv857eCc0W5ZZE/view?usp=sharing'> View Certificate</a></p>
-                      <p className="title">Uopeople (University Of The People) Studing Computer Science 2020-2022 <a href='https://www.uopeople.edu/'> School Site</a></p>
+                      <p className="title">Uopeople (University Of The People) Studing Computer Science <a href='https://www.uopeople.edu/'> School Site</a></p>
                       <p className="title">Alc (Andela Learning Community) This is a <b>Web Specialist certificate</b> offered by Andela Tech Company
              <a href='https://drive.google.com/file/d/1COM_OqQwZyeuikkTfvlbl8t1aagyitVO/view?usp=sharing'> View certificate</a></p>
                       <p className="title">Certificate Of Participation From #BuildforSDG Challenge Sponsor By Andela and Facebook
              <a href='https://drive.google.com/file/d/1ed_ZMGE3eYCb9UwfCdBicywu4kG_wCbu/view?usp=sharing'> View certificate</a></p>
-                      <p className="title">Certificates Earn From OpenClassrooms</p>
-                      <ol>
-                        <b>
-                          <li>Build Web Project With REST API <a href='https://drive.google.com/file/d/1XhguIJE3Hawve_9IP3hYIK9xnJTrvJ-T/view?usp=sharing'>  View Certificate</a></li>
-                          <li>Fullstack With Nodejs, Express and MongoDB<a href='https://drive.google.com/file/d/1B_Ujtd4CMIp6qCoz3wGatHbYL12jQ8nS/view?usp=sharing'>  View Certificate</a></li>
-                          <li>Build Web Apps With ReactJs<a href='https://drive.google.com/file/d/134FoJWx3FxZUMdwaGN33dQBd0fNWuMzS/view?usp=sharing'>  View Certificate</a></li>
-                          <li>Testing Websites Interface<a href='https://drive.google.com/file/d/1_0tjQ7T1w2hvgJy1RKjka7AblEVqv8iI/view?usp=sharing'>  View Certificate</a></li>
-                          <li>Retrieve Data Using SQL<a href='https://drive.google.com/file/d/1dI3eQWRkMoIkhmb476Ra8xWXmWOUIGLy/view?usp=sharing'>  View Certificate</a></li>
-                        </b>
-                      </ol>
                     </h5>
                   </Row>
                 </Col>

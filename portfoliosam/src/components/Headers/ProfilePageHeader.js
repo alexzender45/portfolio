@@ -39,20 +39,8 @@ function ProfilePageHeader() {
             <img alt="..." src={require("assets/img/sam.png")}></img>
           </div>
           <h3 className="title">Abiokorigho Samuel</h3>
-          <p className="category">Software Engineer---3years</p>
+          <p className="category">Backend Developer</p>
           <div className="content">
-            <div className="social-description">
-              <h2>47</h2>
-              <p>Repository On Github</p>
-            </div>
-            <div className="social-description">
-              <h2>16</h2>
-              <p>Project On Heroku Platform</p>
-            </div>
-            <div className="social-description">
-              <h2>14</h2>
-              <p>Project On LinkedIn</p>
-            </div>
           </div>
         </Container>
       </div>
