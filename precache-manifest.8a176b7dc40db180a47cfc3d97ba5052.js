@@ -1,51 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a4e98928958e632aa4b3d547a75693c",
+    "revision": "f1c6664d4bbe5d499c064c3ff66f4bda",
     "url": "./index.html"
   },
   {
-    "revision": "4eac407123a9b1fb7abe",
+    "revision": "4a8b87b65d3f3a665ed2",
     "url": "./static/css/main.01a1d71b.chunk.css"
   },
   {
-    "revision": "a93de8ec1675e523e7e3",
-    "url": "./static/js/2.9fb4fc11.chunk.js"
+    "revision": "67dd68711a087dde1c69",
+    "url": "./static/js/2.53d948ce.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "./static/js/2.9fb4fc11.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.53d948ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4eac407123a9b1fb7abe",
-    "url": "./static/js/main.b5a90d9a.chunk.js"
+    "revision": "4a8b87b65d3f3a665ed2",
+    "url": "./static/js/main.d880c20c.chunk.js"
   },
   {
     "revision": "e0d518ee8ea3367fb806",
     "url": "./static/js/runtime-main.87847c3c.js"
   },
   {
-    "revision": "23f95b7745ab2aa718903602a15312b4",
-    "url": "./static/media/Mlh.23f95b77.PNG"
-  },
-  {
-    "revision": "5a1b333598abe41d861ac6055e425022",
-    "url": "./static/media/bg10.5a1b3335.PNG"
-  },
-  {
-    "revision": "d17895308e5575823d7d3887e4648e0e",
-    "url": "./static/media/bg14.d1789530.PNG"
-  },
-  {
-    "revision": "6051a9ca57a004f255c95f86ac28e22b",
-    "url": "./static/media/bg2.6051a9ca.PNG"
-  },
-  {
     "revision": "30e084fc6fc2de0d0df6efa406d43c6d",
     "url": "./static/media/bg3.30e084fc.PNG"
-  },
-  {
-    "revision": "5da28dbcfef9f1e1bff59823fc592f3e",
-    "url": "./static/media/bg4.5da28dbc.PNG"
   },
   {
     "revision": "e1e9f271620db7a1a1b4794425d19dfa",
@@ -60,16 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/bg9.f6a9e5cf.PNG"
   },
   {
+    "revision": "506c56c7280f09b16d711b528e263460",
+    "url": "./static/media/felt-teacher.506c56c7.PNG"
+  },
+  {
     "revision": "be8c5fb2149c77102588ba3688fcba2c",
     "url": "./static/media/game.be8c5fb2.png"
-  },
-  {
-    "revision": "408f96ed3061ec1c0cb743b9ae405b3c",
-    "url": "./static/media/luhn.408f96ed.PNG"
-  },
-  {
-    "revision": "e4bcb54466191b75539faa7e61fdbd6b",
-    "url": "./static/media/newAfrica.e4bcb544.png"
   },
   {
     "revision": "22a0bffe789c286a9d78eb52670996a7",
@@ -86,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ebec31f5ce59f908db84d86aed5947f",
     "url": "./static/media/nucleo-outline.8ebec31f.woff2"
-  },
-  {
-    "revision": "f572835bc2c61cf5920da471f0d94f59",
-    "url": "./static/media/password.f572835b.PNG"
   },
   {
     "revision": "a6410ab018add3e154c63b1f9085f0b8",
